@@ -125,7 +125,7 @@ class SitBuildings:
         return available_list
 
 
-sit = SitBuildings(not_available=True, city='*')
+sit = SitBuildings(not_available=True, city='Trondheim')
 
 sit.rooms_unit_all()
 
